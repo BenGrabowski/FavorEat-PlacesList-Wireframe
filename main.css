@@ -43,7 +43,7 @@
       list-style: none;
   }
 
-  #place-type {
+  .place-type {
       font-style: italic;
       font-size: 18px;
   }
